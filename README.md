@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18136510.svg)](https://doi.org/10.5281/zenodo.18136510)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18136510.svg)]
 
 # sfh-lensing-time-delays
 
